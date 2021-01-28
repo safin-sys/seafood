@@ -1,24 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import { createGlobalStyle } from 'styled-components';
+import Main from './components/Main';
+import Navbar from './components/Navbar';
+
+const Global = createGlobalStyle`
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+  .container {
+    width: 70%;
+    margin: 0 auto;
+  }
+  @media (max-width: 768px) {
+    .container {
+      width: 85%;
+    }
+  }
+`;
 
 function App() {
+  const [sidebar, setSidebar] = useState(false);
+
+  function handleSidebar() {
+    setSidebar(!sidebar);
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <React.Fragment>
+      <Global />
+      <Navbar 
+        handleSidebar={handleSidebar}
+        sidebar={sidebar}
+      />
+      <Main 
+        sidebar={sidebar}
+      />
+    </React.Fragment>
   );
 }
 
