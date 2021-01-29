@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from "styled-components";
 import { AiOutlineMenu, AiOutlineArrowLeft } from "react-icons/ai";
+import { Link } from 'react-router-dom';
 
 const Nav = styled.nav`
     background-color: #6200ea;
@@ -18,6 +19,12 @@ const Nav = styled.nav`
             height: 24px;
             cursor: pointer;
         }
+        .logo {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+            text-decoration: none;
+        }
     }
 `;
 
@@ -30,7 +37,7 @@ const Navbar = ({ handleSidebar, sidebar }) => {
                         <AiOutlineMenu onClick={handleSidebar} className="icon" /> : 
                         <AiOutlineArrowLeft onClick={handleSidebar} className="icon" 
                     />}
-                    <h1 className="logo">SeaFood</h1>
+                    <Link to="/" className="logo">SeaFood</Link>
                 </div>
             </Nav>
         </React.Fragment>

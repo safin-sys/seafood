@@ -1,18 +1,23 @@
 import React from 'react';
 import styled from 'styled-components';
+import { Link } from "react-router-dom";
 
 const AsideDOM = styled.aside`
     border-right: 1px solid #dedede;
     transition: all .2s ease-in-out;
 `;
 
-const Aside = ({ sidebar }) => {
+const Aside = ({ sidebar, recipes }) => {
+    const dynamicStyle = {
+        transform: sidebar ? 'translateX(0%)' : 'translateX(-100%)'
+    }
+
     return (
-        <AsideDOM style={{transform: sidebar ? 'translateX(0%)' : 'translateX(-100%)'}}>
+        <AsideDOM style={dynamicStyle}>
             <ul>
-                <ListItem />
-                <ListItem />
-                <ListItem />
+                {recipes && recipes.map((recipe, i) => {
+                    return <ListItem recipe={recipe} key={i} />
+                })}
             </ul>
         </AsideDOM>
     )
@@ -21,41 +26,64 @@ const Aside = ({ sidebar }) => {
 export default Aside;
 
 const Li = styled.li`
-    display: flex;
-    margin: 20px auto;
-    height: 80px;
-    padding-inline: 16px;
-    overflow: hidden;
-    cursor: pointer;
-    img {
-        width: 80px;
+    a {
+        display: flex;
+        margin: 20px auto;
         height: 80px;
-    }
-    .info {
-        margin-left: 6px;
-        .title {
-            margin-bottom: 6px;
+        padding-inline: 16px;
+        overflow: hidden;
+        cursor: pointer;
+        text-decoration: none;
+        img {
+            width: 80px;
+            height: 80px;
         }
-        .des {
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-            width: 250px;
+        .info {
+            margin-left: 10px;
+            width: 240px;
+            .title {
+                display: block;
+                margin-bottom: 6px;
+                font-size: 18px;
+                font-weight: bold;
+                color: #222;
+                text-decoration: none;
+            }
+            .title:hover {
+                text-decoration: underline;
+            }
+            .des,
+            .ing,
+            .title {
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+            .des {
+                color: #444;
+            }
+            .ing {
+                color: #555;
+                font-weight: 300;
+            }
         }
-    }
-    :first-child {
-        margin-top: 14px;
+        :first-child {
+            margin-top: 14px;
+        }
     }
 `;
 
-const ListItem = () => {
+const ListItem = ({ recipe }) => {
     return (
         <Li>
-            <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6723522.jpg" alt="Octopus"/>
-            <div className="info">
-                <h3 className="title">Grilled Octopus</h3>
-                <p className="des">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, aspernatur eos reiciendis quos illum eveniet earum tenetur voluptas est ipsam debitis ea expedita quaerat doloribus ipsum dolore totam nostrum. Perspiciatis.</p>
-            </div>
+            <Link to={recipe.name}>
+                <img src={recipe.image.url} alt={recipe.name} />
+                <div className="info">
+                    <p className="title">{recipe.name}</p>
+                    <p className="des">{recipe.description}</p>
+                    <div className="ing">{recipe.recipeIngredient[0]}</div>
+                </div>
+            </Link>
         </Li>
     )
 }
