@@ -14,7 +14,7 @@ const Nav = styled.nav`
         display: flex;
         align-items: center;
         .icon {
-            margin-right: 14px;
+            margin-right: 24px;
             width: 24px;
             height: 24px;
             cursor: pointer;
@@ -24,6 +24,13 @@ const Nav = styled.nav`
             font-size: 24px;
             font-weight: bold;
             text-decoration: none;
+            display: flex;
+            align-items: center;
+            img {
+                height: 32px;
+                width: 32px;
+                margin-right: 6px;
+            }
         }
     }
 `;
@@ -37,7 +44,7 @@ const Navbar = ({ handleSidebar, sidebar }) => {
                         <AiOutlineMenu onClick={handleSidebar} className="icon" /> : 
                         <AiOutlineArrowLeft onClick={handleSidebar} className="icon" 
                     />}
-                    <Link to="/" className="logo">SeaFood</Link>
+                    <Link to="/" className="logo"><img src="/images/icons/icon-512x512.png" alt="SeaFood Logo"/>SeaFood</Link>
                 </div>
             </Nav>
         </React.Fragment>

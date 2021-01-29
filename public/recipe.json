@@ -2,7 +2,7 @@
     {
         "name": "Spanish Octopus",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4549857.jpg"
+            "url": "images/1.webp"
         },
         "description": "Above and beyond the ingredients, the cooking method, or should I say methods, couldn't be easier. As long as you braise it gently on low heat, until just tender, and then give it a nice sear before serving, you should be in great shape. This smoky braised octopus is great served with crusty roasted potatoes.",
         "recipeYield": "2 servings",
@@ -74,7 +74,7 @@
     {
         "name": "Grilled Octopus",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6723522.jpg"
+            "url": "images/2.webp"
         },
         "description": "Tenderized octopus, char-grilled and drizzled with extra virgin olive oil, a squeeze of fresh lemon, and a sprinkling of fresh parsley. Simple, yet deliciously satisfying!",
         "recipeYield": "6 servings",
@@ -132,7 +132,7 @@
     {
         "name": "Octopus in Tomato Sauce",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F98350.jpg"
+            "url": "images/3.webp"
         },
         "description": "Enjoy this traditional recipe from Malta which makes a very flavorful sauce for octopus with potatoes, tomatoes, red wine and a hint of citrus that can be served over spaghetti, or just on its own.",
         "recipeYield": "4 servings",
@@ -184,7 +184,7 @@
     {
         "name": "Shrimp and Octopus Soup (Caldo de Camaron y Pulpo)",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5026184.jpg"
+            "url": "images/4.webp"
         },
         "description": "This is a 'Caldo' or soup made with Shrimp and Octopus.  This is for all the Mexican and seafood lovers.  This soup can be eaten with Tortillas or Tostadas.",
         "recipeYield": "8 servings",
@@ -234,7 +234,7 @@
     {
         "name": "Octapodi Kokkinisto (Greek Octopus in Tomato Sauce)",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5465926.jpg"
+            "url": "images/5.webp"
         },
         "description": "Octopus is an incomparable treat. I love it grilled, in a salad or in tomato sauce. For many, cooking octopus may seem daunting - but I assure you, it couldn't be easier. Serve this dish with hand-cut french fries or with rice. Never add water; you want the octopus to cook in its own juices for best flavor.",
         "recipeYield": "6 servings",
@@ -275,7 +275,7 @@
     {
         "name": "Spicy Stuffed Squid",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1433.jpg"
+            "url": "images/6.webp"
         },
         "description": "Squid stuffed with succulent rice and baked in a spicy tomato sauce. It doesn't get much better than this.",
         "recipeYield": "4 servings",
@@ -343,7 +343,7 @@
     {
         "name": "Buttermilk-Battered Calamari",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1909777.jpg"
+            "url": "images/7.webp"
         },
         "description": "This is a great recipe for those who love battered calamari. It's so simple and the finished product is awesome! Serve with marinara sauce for dipping.",
         "recipeYield": "6 servings",
@@ -388,7 +388,7 @@
     {
         "name": "Calamari",
         "image": {
-            "url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1117634.jpg"
+            "url": "images/8.webp"
         },
         "description": "This is a delicious, very easy, quick but moderately expensive recipe. Everyone I've ever fixed it for absolutely loves it!",
         "recipeYield": "10 appetizer servings",
