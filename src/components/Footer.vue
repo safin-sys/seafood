@@ -3,7 +3,7 @@
         <div>
             <div class="font-bold text-2xl flex items-center h-16 lg:text-orange-500 lg:mt-[-1rem]">
                 Seafood
-                <img src="octopus.png" alt="Logo" class="h-8 w-8 ml-2" />
+                <img src="/octopus.png" alt="Logo" class="h-8 w-8 ml-2" />
             </div>
             <p class="max-w-[30ch]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, consectetur magnam dolorum itaque corrupti.</p>
         </div>
