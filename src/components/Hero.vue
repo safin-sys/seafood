@@ -12,7 +12,7 @@ export default {
     <main class="grid h-[calc(100vh-4rem)] lg:grid-cols-[1fr,2fr] container mx-auto px-4">
         <div class="flex justify-center items-center flex-col lg:items-start my-16">
             <h1 class="font-bold text-4xl text-center lg:text-left">
-                Jian Yang&apos;s 12 best octopus recipies!
+                Jian Yang&apos;s 12 best octopus recipes!
             </h1>
             <p class="mt-4 font-semibold text-lg">Find your favorite recipe now</p>
             <a
