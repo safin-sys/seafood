@@ -1,17 +1,14 @@
 <script>
-import Nav from "./Nav.vue"
 export default {
     data() {
         return {
             img: "https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/2019/11/06/jianyang.png?itok=p8trcyBP"
         };
     },
-    components: { Nav }
 }
 </script>
 
 <template>
-    <Nav />
     <main class="grid h-[calc(100vh-4rem)] lg:grid-cols-[1fr,2fr] container mx-auto px-4">
         <div class="flex justify-center items-center flex-col lg:items-start my-16">
             <h1 class="font-bold text-4xl text-center lg:text-left">

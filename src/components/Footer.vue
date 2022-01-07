@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto px-4 grid gap-8 bg-orange-500 text-white py-4 lg:bg-white lg:text-black lg:grid-cols-4 lg:my-4">
+    <div class="container mx-auto px-4 grid gap-8 bg-orange-500 text-white py-4 lg:bg-white lg:text-black lg:grid-cols-4 lg:my-4 lg:border-t-2">
         <div>
             <div class="font-bold text-2xl flex items-center h-16 lg:text-orange-500 lg:mt-[-1rem]">
                 Seafood

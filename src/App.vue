@@ -1,22 +1,17 @@
 <script>
-import Hero from './components/Hero.vue'
-import Recipies from './components/Recipes.vue'
-import Testimonials from './components/Testimonials.vue'
 import Footer from './components/Footer.vue'
+import Nav from './components/Nav.vue'
 
 export default {
 	components: {
-    Hero,
-    Recipies,
-    Testimonials,
-    Footer
+    Footer,
+    Nav
 }
 }
 </script>
 
 <template>
-	<Hero />
-	<Recipies />
-	<Testimonials />
+    <Nav />
+	<router-view></router-view>
 	<Footer />
 </template>

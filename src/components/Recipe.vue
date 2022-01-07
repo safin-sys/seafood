@@ -1,16 +1,23 @@
 <script>
+import getSlug from "../libs/getSlug"
+
 export default {
     props: {
         recipe: {
             type: Object,
             required: true
         }
-    }
+    },
+    data() {
+        return {
+            slug: getSlug(this.recipe.name)
+        }
+    },
 }
 </script>
 
 <template>
-    <div class="w-[calc(100vw-4rem)] lg:w-full overflow-hidden shadow-lg">
+    <router-link :to="`/recipe/${slug}`" class="w-[calc(100vw-4rem)] lg:w-full overflow-hidden shadow-lg">
         <img
             class="w-full h-64 object-cover object-center"
             :src="`https://raw.githubusercontent.com/safin-sys/seafood/master/public/${recipe.image.url}`"
@@ -20,7 +27,7 @@ export default {
             <h2 class="font-bold text-xl mb-2">{{ recipe.name }}</h2>
             <p class="text-gray-700 text-base">{{ recipe.description }}</p>
         </div>
-    </div>
+    </router-link>
 </template>
 
 <style scoped>

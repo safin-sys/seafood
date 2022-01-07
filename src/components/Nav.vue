@@ -7,10 +7,10 @@
             </div>
             <ul class="flex items-center gap-4 lg:gap-8">
                 <li class="font-semibold">
-                    <a href="/">Home</a>
+                    <router-link to="/">Home</router-link>
                 </li>
                 <li class="font-semibold">
-                    <a href="/about">About</a>
+                    <router-link to="/about">About</router-link>
                 </li>
             </ul>
         </nav>
