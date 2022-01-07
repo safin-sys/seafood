@@ -18,7 +18,7 @@ export default {
 </script>
 
 <template>
-    <div class="container mx-auto px-4 my-16">
+    <div id="recipes" class="container mx-auto px-4 my-16">
         <div class="flex items-center flex-col">
             <h1 class="text-center font-bold text-xl">Our Recipies</h1>
             <hr class="w-24 mt-2 h-1 bg-orange-500 text-transparent" />

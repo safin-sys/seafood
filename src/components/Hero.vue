@@ -16,7 +16,7 @@ export default {
             </h1>
             <p class="mt-4 font-semibold text-lg">Find your favorite recipe now</p>
             <a
-                href="#recipies"
+                href="#recipes"
                 class="bg-orange-500 px-4 py-2 justify-self-start mt-4 font-semibold text-white"
             >See Recipies</a>
         </div>
