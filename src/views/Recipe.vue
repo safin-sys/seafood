@@ -10,7 +10,7 @@ export default {
     },
     async mounted() {
         const id = useRoute().params.id
-        const res = await fetch("https://raw.githubusercontent.com/safin-sys/seafood/master/public/recipe.json");
+        const res = await fetch("/recipes.json");
         const data = await res.json();
         this.recipe = data.find(recipe => getSlug(recipe.name) === id);
         console.log(this.recipe);
