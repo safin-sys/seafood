@@ -1,0 +1,433 @@
+[
+    {
+        "name": "Spanish Octopus",
+        "image": {
+            "url": "images/1.webp"
+        },
+        "description": "Above and beyond the ingredients, the cooking method, or should I say methods, couldn't be easier. As long as you braise it gently on low heat, until just tender, and then give it a nice sear before serving, you should be in great shape. This smoky braised octopus is great served with crusty roasted potatoes.",
+        "recipeYield": "2 servings",
+        "recipeIngredient": [
+            "1 yellow onion, coarsely chopped",
+            "3 cloves garlic, peeled and crushed",
+            "1 large bay leaf",
+            "1 ½ teaspoons smoked Spanish paprika",
+            "1 ½ teaspoons kosher salt",
+            "1 tablespoon olive oil",
+            "½ cup white wine",
+            "1 (1 pound) piece Spanish octopus",
+            "2 tablespoons olive oil",
+            "1/3 cup braising liquid",
+            "1 tablespoon fresh lemon juice",
+            "1 tablespoon extra-virgin olive oil",
+            "salt to taste",
+            "1 pinch cayenne pepper to taste"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Place chopped onion, garlic cloves, bay leaf, paprika, salt, and 1 tablespoon olive oil into saucepan. Cook and stir over medium-high heat until onions start to soften, about 5 minutes. Add white wine to create the braising liquid. Bring to a simmer.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer octopus into braising liquid, turning to coat with the liquid. Cover; reduce heat to low. Simmer 20 minutes and turn octopus over. Continue cooking until octopus is tender, another 40 to 45 minutes.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from heat; transfer octopus to a large bowl. Pour braising liquid over octopus. Place bowl above a bowl of ice water to cool to room temperature.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cover bowl with plastic wrap when octopus and liquid are cool. Refrigerate until thoroughly chilled, at least 2 hours or overnight.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer octopus to a work surface and mop off braising juices with paper towels; remove as much of the purple skin as you want. Cut octopus into 3 or 4 serving-size pieces. Brush with olive oil.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Transfer braising liquid to saucepan. Bring to a boil; remove from heat. Strain out solids; transfer liquid to a mixing bowl; let cool about 10 minutes. Stir in lemon juice, extra-virgin olive oil, parsley, salt, and cayenne pepper to make the serving sauce.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat a grill pan or outdoor grill to high heat. Transfer octopus pieces to grill. Cook until flesh is seared, almost charred, 3 or 4 minutes. Turn and cook other side until dark brown, caramelized, and heated through, another 3 or 4 minutes. Transfer to a platter.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Slice octopus into fairly thick diagonal slices. Place on a serving dish. Spoon braising liquid mixture over the top. Dust with a bit of cayenne pepper, if desired.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "513.2 calories",
+            "carbohydrateContent": "15 g",
+            "cholesterolContent": "108.9 mg",
+            "fatContent": "29.7 g",
+            "fiberContent": "1.8 g",
+            "proteinContent": "35.1 g",
+            "saturatedFatContent": "4.3 g",
+            "servingSize": null,
+            "sodiumContent": "2046.4 mg",
+            "sugarContent": "3.3 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    },
+    {
+        "name": "Grilled Octopus",
+        "image": {
+            "url": "images/2.webp"
+        },
+        "description": "Tenderized octopus, char-grilled and drizzled with extra virgin olive oil, a squeeze of fresh lemon, and a sprinkling of fresh parsley. Simple, yet deliciously satisfying!",
+        "recipeYield": "6 servings",
+        "recipeIngredient": [
+            "2 tablespoons kosher salt",
+            "1 tablespoon black peppercorns",
+            "1 wine cork",
+            "3 ½ pounds octopus, head and beak removed",
+            "2 tablespoons extra virgin olive oil",
+            "½ lemon",
+            "½ tablespoon minced fresh parsley",
+            "1 pinch salt and freshly ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Fill a large pot 1/2 full with water. Add 2 tablespoons kosher salt, peppercorns, and the wine cork; bring to a boil over high heat.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meanwhile, place octopus on a cutting board. Using a wooden spoon or meat mallet, pound the octopus multiple times, starting in the middle and moving down each tentacle to tenderize the meat.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Dip tentacles into the boiling water 3 times, holding them in the boiling water 2 to 3 seconds each time, until the tentacles curl up. Submerge entire octopus in the boiling water. Bring water back to a boil, reduce heat to low, cover, and simmer until octopus is fork-tender, 45 to 60 minutes. Remove from heat and cool for 30 minutes.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Grill octopus until charred on all sides, 3 to 4 minutes per side.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Remove from heat, slice into pieces, and place on a serving platter. Drizzle with extra virgin olive oil, squeeze lemon over top, sprinkle with parsley, and season with salt and pepper to taste. Serve immediately.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "384 calories",
+            "carbohydrateContent": "10.6 g",
+            "cholesterolContent": "198.7 mg",
+            "fatContent": "8.9 g",
+            "fiberContent": "0.7 g",
+            "proteinContent": "61.9 g",
+            "saturatedFatContent": "1.6 g",
+            "servingSize": null,
+            "sodiumContent": "2898.9 mg",
+            "sugarContent": null,
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    },
+    {
+        "name": "Octopus in Tomato Sauce",
+        "image": {
+            "url": "images/3.webp"
+        },
+        "description": "Enjoy this traditional recipe from Malta which makes a very flavorful sauce for octopus with potatoes, tomatoes, red wine and a hint of citrus that can be served over spaghetti, or just on its own.",
+        "recipeYield": "4 servings",
+        "recipeIngredient": [
+            "1 ½ pounds octopus",
+            "2 tablespoons olive oil",
+            "1 large onion, chopped",
+            "6 cloves garlic, chopped",
+            "¼ cup chopped fresh mint leaves",
+            "1 teaspoon curry powder",
+            "1 teaspoon mixed spice",
+            "salt and pepper to taste",
+            "1 cup red wine",
+            "½ teaspoon grated lemon zest",
+            "½ teaspoon grated orange zest",
+            "1 (28 ounce) can whole peeled tomatoes",
+            "2 tablespoons tomato paste",
+            "1 (8 ounce) can peas, drained",
+            "2 potatoes, peeled and cubed",
+            "10 whole pitted ripe olives",
+            "4 bay leaves",
+            "1 teaspoon white sugar"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Place the octopus into a large pot and fill with enough lightly salted water to cover. Bring to a boil, and then simmer over medium heat until octopus is opaque, about 15 minutes. Drain and allow to cool slightly; cut into bite-size pieces.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Heat the olive oil in a large skillet over medium heat. Add the onion, garlic, mint leaves, curry powder and mixed spice; cook and stir until onion is soft. Season to taste with salt and pepper. Mix in the octopus pieces, wine, lemon zest and orange zest. Simmer for 3 to 4 minutes to blend the flavors, then stir in the tomatoes, tomato paste, peas, potatoes, olives and bay leaves. Cover and simmer over low heat until potatoes and octopus are tender, about 45 minutes.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "498.8 calories",
+            "carbohydrateContent": "44 g",
+            "cholesterolContent": "127.8 mg",
+            "fatContent": "11.5 g",
+            "fiberContent": "6.4 g",
+            "proteinContent": "45 g",
+            "saturatedFatContent": "1.8 g",
+            "servingSize": null,
+            "sodiumContent": "1095.1 mg",
+            "sugarContent": "9.8 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    },
+    {
+        "name": "Shrimp and Octopus Soup (Caldo de Camaron y Pulpo)",
+        "image": {
+            "url": "images/4.webp"
+        },
+        "description": "This is a 'Caldo' or soup made with Shrimp and Octopus.  This is for all the Mexican and seafood lovers.  This soup can be eaten with Tortillas or Tostadas.",
+        "recipeYield": "8 servings",
+        "recipeIngredient": [
+            "2 quarts water",
+            "2 pounds octopus, cut into 1 inch pieces",
+            "1 tablespoon vegetable oil",
+            "1 cup diced carrots",
+            "1 cup diced celery",
+            "2 cups cubed potatoes",
+            "½ cup crushed dry pasilla chile peppers",
+            "½ cup chopped onion, or to taste",
+            "1 cup diced tomato",
+            "1 ½ pounds large shrimp in shells",
+            "1 cup fresh corn kernels",
+            "salt to taste"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Place the water in a large soup pot, and bring to a boil over medium-high heat. Add octopus, and continue boiling for about 20 minutes.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "While the octopus is boiling, heat oil in a skillet over medium-high heat. Add carrots, celery, potatoes, and pasilla pepper. Fry for about 15 minutes, adding the onion and tomato at the very end. The ingredients do not need to be fully cooked.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "When the octopus has boiled for 20 minutes, add the shrimp in their shells to the octopus, and let it boil for 5 more minutes. Add the vegetables from the skillet, and season with salt to your liking. If corn is used, put it in with the shrimp. Let everything simmer together for 15 minutes.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "269.3 calories",
+            "carbohydrateContent": "18.4 g",
+            "cholesterolContent": "183.9 mg",
+            "fatContent": "5.2 g",
+            "fiberContent": "3.2 g",
+            "proteinContent": "36.4 g",
+            "saturatedFatContent": "0.9 g",
+            "servingSize": null,
+            "sodiumContent": "462.4 mg",
+            "sugarContent": "2.9 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    },
+    {
+        "name": "Octapodi Kokkinisto (Greek Octopus in Tomato Sauce)",
+        "image": {
+            "url": "images/5.webp"
+        },
+        "description": "Octopus is an incomparable treat. I love it grilled, in a salad or in tomato sauce. For many, cooking octopus may seem daunting - but I assure you, it couldn't be easier. Serve this dish with hand-cut french fries or with rice. Never add water; you want the octopus to cook in its own juices for best flavor.",
+        "recipeYield": "6 servings",
+        "recipeIngredient": [
+            "2 pounds octopus, cut into 3-inch pieces",
+            "¾ cup olive oil",
+            "8 small red onions, cut into thin wedges",
+            "3 bay leaves",
+            "2 cups crushed tomatoes",
+            "½ teaspoon sea salt",
+            "freshly ground black pepper to taste"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Place the octopus pieces into a large saucepan. Cover, and cook over medium-high heat until the octopus has released its juices, 10 to 15 minutes. Uncover, and continue simmering until the liquid has reduced to 3 to 4 tablespoons, 20 to 25 minutes.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Drizzle the octopus with olive oil, then stir in the onions and bay leaves. Cook and stir until the onions have softened, about 10 minutes. Add the tomatoes, salt, and pepper. Reduce heat to medium-low, cover, and simmer until the octopus is tender and the sauce has thickened, about 25 minutes. Cook uncovered for the last 10 minutes if the sauce is too thin.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "411.7 calories",
+            "carbohydrateContent": "14.6 g",
+            "cholesterolContent": "72.7 mg",
+            "fatContent": "28.8 g",
+            "fiberContent": "2.4 g",
+            "proteinContent": "24.2 g",
+            "saturatedFatContent": "4.1 g",
+            "servingSize": null,
+            "sodiumContent": "502.4 mg",
+            "sugarContent": "5.5 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    },
+    {
+        "name": "Spicy Stuffed Squid",
+        "image": {
+            "url": "images/6.webp"
+        },
+        "description": "Squid stuffed with succulent rice and baked in a spicy tomato sauce. It doesn't get much better than this.",
+        "recipeYield": "4 servings",
+        "recipeIngredient": [
+            "1 cup water",
+            "½ cup uncooked white rice",
+            "3 squid",
+            "¼ cup raisins",
+            "¼ cup pine nuts",
+            "2 tablespoons olive oil",
+            "1 onion, chopped",
+            "3 cloves crushed garlic",
+            "salt and pepper to taste",
+            "2 tablespoons olive oil",
+            "2 (14.5 ounce) cans stewed tomatoes",
+            "1 onion, chopped",
+            "4 cloves crushed garlic",
+            "2 teaspoons crushed red pepper flakes",
+            "2 teaspoons dried oregano",
+            "3 teaspoons anchovy paste",
+            "½ cup white wine",
+            "salt and pepper to taste"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease one 7x11 inch baking dish. In a saucepan bring 1 cup water to a boil. Add rice and stir. Reduce heat, cover and simmer for 20 minutes.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cut the head and tentacles from the body of the squid. Reserve and chop the tentacles. Remove the quill and peel the colored skin from the body. Rinse under cold water and set aside.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In small bowl combine the rice, raisins and pine nuts.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Saute 1 chopped onion and 3 cloves garlic with 2 tablespoons olive oil in a medium skillet. Cook until soft. Add the chopped squid tentacles, and the rice mixture. Stir well and remove from the heat. Season to taste with salt and pepper.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a large skillet saute the onion and 4 cloves garlic until soft. Stir in the red pepper flakes and oregano. Add the tomatoes with juice, anchovy paste and wine. Stir and cook over medium heat until slightly thickened. Season to taste with salt and pepper.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Stuff the squid with the rice mixture and seal ends with wooden picks. Place squid in the prepared baking dish. Pour tomato sauce over all and bake at 350 degrees F (175 degrees C) for 1 hour.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "425.8 calories",
+            "carbohydrateContent": "50.3 g",
+            "cholesterolContent": "1.9 mg",
+            "fatContent": "19.1 g",
+            "fiberContent": "4.6 g",
+            "proteinContent": "11.9 g",
+            "saturatedFatContent": "2.7 g",
+            "servingSize": null,
+            "sodiumContent": "924 mg",
+            "sugarContent": "15.6 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    },
+    {
+        "name": "Buttermilk-Battered Calamari",
+        "image": {
+            "url": "images/7.webp"
+        },
+        "description": "This is a great recipe for those who love battered calamari. It's so simple and the finished product is awesome! Serve with marinara sauce for dipping.",
+        "recipeYield": "6 servings",
+        "recipeIngredient": [
+            "2 cups vegetable oil for frying",
+            "1 cup buttermilk",
+            "1 cup all-purpose flour",
+            "½ tablespoon salt",
+            "½ tablespoon ground black pepper",
+            "1 teaspoon dried oregano",
+            "1 pound squid, cleaned and cut into 1/2 inch rings"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Heat oil in a saucepan or deep-fryer to 375 degrees F (190 degrees C).\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pour buttermilk into a medium bowl. In a separate bowl, stir together the flour, salt, pepper and oregano. Dip squid rings into the buttermilk, then into the seasoned flour.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place the coated pieces in the hot oil, and fry in small batches, turning if necessary, for even cooking. When evenly browned, remove to paper towels to drain, and continue with the rest of the squid. Serve hot.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "209.3 calories",
+            "carbohydrateContent": "18.4 g",
+            "cholesterolContent": "1.6 mg",
+            "fatContent": "8.6 g",
+            "fiberContent": "0.8 g",
+            "proteinContent": "13.9 g",
+            "saturatedFatContent": "1.2 g",
+            "servingSize": null,
+            "sodiumContent": "624.9 mg",
+            "sugarContent": "2 g",
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    },
+    {
+        "name": "Calamari",
+        "image": {
+            "url": "images/8.webp"
+        },
+        "description": "This is a delicious, very easy, quick but moderately expensive recipe. Everyone I've ever fixed it for absolutely loves it!",
+        "recipeYield": "10 appetizer servings",
+        "recipeIngredient": [
+            "3 cups vegetable oil",
+            "¼ cup all-purpose flour",
+            "1 teaspoon salt",
+            "1 teaspoon dried oregano",
+            "½ teaspoon ground black pepper",
+            "12 squid, cleaned and sliced into rings",
+            "1 lemon - cut into wedges, for garnish"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Preheat oil in a heavy, deep frying pan or pot. Oil should be heated to 365 degrees F (180 degrees C).\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "In a medium size mixing bowl mix together flour, salt, oregano and black pepper. Dredge squid through flour and spice mixture.\n"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place squid in oil for 2 to 3 minutes or until light brown. Beware of overcooking, squid will be tough if overcooked. Dry squid on paper towels. Serve with wedges of lemon.\n"
+            }
+        ],
+        "nutrition": {
+            "calories": "641.9 calories",
+            "carbohydrateContent": "5.2 g",
+            "cholesterolContent": "111.8 mg",
+            "fatContent": "66.7 g",
+            "fiberContent": "0.7 g",
+            "proteinContent": "8 g",
+            "saturatedFatContent": "8.7 g",
+            "servingSize": null,
+            "sodiumContent": "254.1 mg",
+            "sugarContent": null,
+            "transFatContent": null,
+            "unsaturatedFatContent": null
+        }
+    }
+]

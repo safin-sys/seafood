@@ -20,7 +20,7 @@ export default {
     <router-link :to="`/recipe/${slug}`" class="w-[calc(100vw-4rem)] lg:w-full overflow-hidden shadow-lg">
         <img
             class="w-full h-64 object-cover object-center"
-            :src="`https://raw.githubusercontent.com/safin-sys/seafood/master/public/${recipe.image.url}`"
+            :src="`/${recipe.image.url}`"
             :alt="recipe.name"
         />
         <div class="px-6 py-4">

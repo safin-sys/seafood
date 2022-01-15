@@ -10,10 +10,10 @@ export default {
         };
     },
     async mounted() {
-        const res = await fetch("https://raw.githubusercontent.com/safin-sys/seafood/master/public/recipe.json");
+        const res = await fetch("/recipes.json");
         const data = await res.json();
         this.recipes = data;
-    }
+    },
 }
 </script>
 
